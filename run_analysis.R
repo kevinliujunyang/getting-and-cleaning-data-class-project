@@ -1,3 +1,6 @@
+# Junyang Liu
+# Getting and Cleaning Data Project
+
 # 1. Merge the training and the test sets to create one data set.
 
 #set working directory
